@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Al doilea file changed with commit,modificat pe server cu commit
+=======
 Al doilea file changed with commit
+>>>>>>> main
