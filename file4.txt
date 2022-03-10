@@ -1,1 +1,7 @@
 "create file4.txt" 
+<<<<<<< HEAD
+=======
+
+
+modificat tot pe server
+>>>>>>> main
