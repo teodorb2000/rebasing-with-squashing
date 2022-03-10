@@ -1,0 +1,35 @@
+[33mcommit f1fbf9f5e2415e82660daaacc4aeb7eeda001947[m[33m ([m[1;36mHEAD -> [m[1;32mfeature1[m[33m)[m
+Author: teodorb2000 <teodorb2000@yahoo.com>
+Date:   Thu Mar 10 14:13:52 2022 +0200
+
+    creat file 4 .txt
+
+[33mcommit 6a14844e336e79aea0eff05e13006110ddcfc7cf[m
+Author: teodorb2000 <teodorb2000@yahoo.com>
+Date:   Thu Mar 10 14:12:10 2022 +0200
+
+    primul commit dupa remote pull pull
+
+[33mcommit 2ce94ba1e8097ce62d33620bd96a6ebd2d9c5a69[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: teodorb2000 <teodorb2000@yahoo.com>
+Date:   Wed Mar 9 15:26:56 2022 +0200
+
+    thirt commit  file in feature1 branch
+
+[33mcommit 5c09c9d4fa8dbcaaa9aee451431f9370bb14e623[m
+Author: teodorb2000 <teodorb2000@yahoo.com>
+Date:   Wed Mar 9 15:26:20 2022 +0200
+
+    secont commit  file in feature1 branch
+
+[33mcommit be464b00aaf501ea1b7a684af4ed8f3cb186e359[m
+Author: teodorb2000 <teodorb2000@yahoo.com>
+Date:   Wed Mar 9 15:25:50 2022 +0200
+
+    first file in feature1 branch
+
+[33mcommit c5cd6a34b1e26fa1d1e3cdf4d6379024132a7fcb[m
+Author: teodorb2000 <57950679+teodorb2000@users.noreply.github.com>
+Date:   Wed Mar 9 15:22:07 2022 +0200
+
+    Initial commit
