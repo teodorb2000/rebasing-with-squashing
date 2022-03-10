@@ -1,1 +1,1 @@
-primul commit dupa pull
+primul commit dupa pull ,modifcat pe server
